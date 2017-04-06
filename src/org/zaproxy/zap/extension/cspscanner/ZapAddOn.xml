@@ -2,7 +2,7 @@
 	<name>Content Security Policy Scanner</name>
 	<version>1</version>
 	<status>alpha</status>
-	<description>Content Security Scanner</description>
+	<description>Content Security Policy (CSP) Scanner</description>
 	<author>ZAP Dev Team</author>
 	<dependencies>
 		<javaversion>1.8</javaversion>
